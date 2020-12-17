@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1608208367">
+  <project timestamp="1608208367">
+    <file name="/app/src/Sample.php">
+      <class name="GitlabCoverageReporter\Sample" namespace="global">
+        <metrics complexity="5" methods="5" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="3" elements="10" coveredelements="6"/>
+      </class>
+      <line num="6" type="method" name="f1" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="8" type="stmt" count="1"/>
+      <line num="11" type="method" name="f2" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="16" type="method" name="f3" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="21" type="method" name="f4" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="23" type="stmt" count="1"/>
+      <line num="26" type="method" name="f5" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <metrics loc="30" ncloc="30" classes="1" methods="5" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="3" elements="10" coveredelements="6"/>
+    </file>
+    <file name="/app/tests/bootstrap.php">
+      <line num="2" type="stmt" count="0"/>
+      <metrics loc="2" ncloc="2" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="0" elements="1" coveredelements="0"/>
+    </file>
+    <metrics files="2" loc="32" ncloc="32" classes="1" methods="5" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="3" elements="11" coveredelements="6"/>
+  </project>
+</coverage>

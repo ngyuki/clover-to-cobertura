@@ -1,0 +1,17 @@
+{
+    "name": "ngyuki/clover-to-cobertura",
+    "description": "Clover XML to Cobertura XML for Gitlab Coverage Visualization",
+    "homepage": "https://github.com/ngyuki/clover-to-cobertura",
+    "license": "MIT",
+    "authors": [
+        { "name": "Toshiyuki Goto", "email": "ngyuki.jp@gmail.com" }
+    ],
+    "require": {
+        "ext-dom": "*",
+        "ext-simplexml": "*",
+        "php": "^7.0|^8.0"
+    },
+    "bin": [
+        "clover-to-cobertura"
+    ]
+}

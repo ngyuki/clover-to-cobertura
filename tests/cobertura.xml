@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+  <sources>
+    <source>/app</source>
+  </sources>
+  <packages>
+    <package name="global">
+      <classes>
+        <class name="GitlabCoverageReporter\Sample" filename="src/Sample.php">
+          <lines>
+            <line number="8" hits="1"/>
+            <line number="13" hits="1"/>
+            <line number="18" hits="0"/>
+            <line number="23" hits="1"/>
+            <line number="28" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="">
+      <classes>
+        <class name="" filename="tests/bootstrap.php">
+          <lines>
+            <line number="2" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
