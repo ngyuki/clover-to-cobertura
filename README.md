@@ -9,6 +9,12 @@ curl https://raw.githubusercontent.com/ngyuki/clover-to-cobertura/master/clover-
   -o clover-to-cobertura.php
 ```
 
+Or
+
+```sh
+composer require --dev ngyuki/clover-to-cobertura
+```
+
 ## Usage
 
 ```sh
